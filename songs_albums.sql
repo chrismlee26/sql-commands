@@ -17,7 +17,7 @@ CREATE TABLE Albums (
 /* 
  * TODO: Insert at least 4 rows of data into the songs table. You can change up the albums as well. :)
  */
- 
+
 INSERT INTO Albums
     (name, artist, year_published)
 VALUES
@@ -51,7 +51,7 @@ SELECT * FROM Albums;
  * TODO: Find all songs on albums published between 1970 and 1980. 
  *(Hint: Use a table join.)
  */
- 
+
 /*
  * TODO: Find all songs on albums with names containing 'California'.
  */
